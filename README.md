@@ -4,6 +4,7 @@ Available Files
 This repository contains the following design files for the ISCA project:
 
 *SVG files of the different parts of the ISCA*
+
 *Complete 3D models in STEP format*
 
 **License and Usage**
