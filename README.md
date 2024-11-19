@@ -14,7 +14,8 @@ All files are provided under an open-source license and are free from copyright 
 **Citation**
 
 If you use these design files in your work, please cite:
-*Coët et al. (2024)*
+*(Coët et al., 2024)* 
+in prep.
 
 **Contact**
 
