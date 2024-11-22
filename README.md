@@ -1,6 +1,5 @@
 **ISCA Design Files Repository**
 
-Available Files
 
 This repository contains the following design files for the ISCA project:
 
