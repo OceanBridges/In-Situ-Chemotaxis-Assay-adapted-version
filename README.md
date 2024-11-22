@@ -1,6 +1,7 @@
 **ISCA Design Files Repository**
 
 Available Files
+
 This repository contains the following design files for the ISCA project:
 
 *SVG files of the different parts of the ISCA*
@@ -14,8 +15,8 @@ All files are provided under an open-source license and are free from copyright 
 **Citation**
 
 If you use these design files in your work, please cite:
-*(Coët et al., 2024)* 
-in prep.
+*(Coët et al., in prep)* 
+
 
 **Contact**
 
