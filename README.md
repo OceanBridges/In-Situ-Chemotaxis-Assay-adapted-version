@@ -1,11 +1,18 @@
 **ISCA Design Files Repository**
 
 
-This repository contains the following design files for the ISCA project:
+This repository contains the following files for the adapted ISCA project:
 
-*SVG files of the different parts of the ISCA*
-
-*Complete 3D models in STEP format*
+* [SVG files of the different parts of the ISCA](/cad/svg/)
+    * *To see what the device looks like*
+* [Complete 3D models in STEP format](/cad/original_steps/)
+    * *To reproduce the original device used for the experiments*
+* [Modular CAD file (FreeCAD)](/cad/modular_cad/)
+    * *To adapt the original design to your needs*
+* [List of the tools and components](/docs/tools_and_components_lists.md)
+    * *To make sure you have everything needed*
+* [Assembly instructions](/docs/assembly_instructions.md)
+    * *To easily duplicate the device*
 
 **License and Usage**
 
