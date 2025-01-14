@@ -12,7 +12,7 @@ These are the available parameters :
 
 ## Hidden parameters
 There are also a lot of hidden parameters that you might be interessted to investigate.  
-Right click on the VarSet Data > tick *Show hidden*. 
+Right click on the VarSet Data > tick *Show hidden*.   
 ![alt text](../img/png/hidden_variables.png)
 
 # How to export the files
