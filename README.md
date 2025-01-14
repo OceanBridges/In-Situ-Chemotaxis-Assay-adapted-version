@@ -9,7 +9,7 @@ This repository contains the following files for the adapted ISCA project:
     * *To reproduce the original device used for the experiments*
 * [Modular CAD file (FreeCAD)](/cad/modular_cad/)
     * *To adapt the original design to your needs*
-* [List of the tools and components](/docs/tools_and_components_lists.md)
+* [List of tools and materials](/docs/tools_and_materials_lists.md)
     * *To make sure you have everything needed*
 * [Assembly instructions](/docs/assembly_instructions.md)
     * *To easily duplicate the device*
